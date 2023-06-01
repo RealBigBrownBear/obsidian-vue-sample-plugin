@@ -1,0 +1,11 @@
+/*
+
+This CSS file will be included with your plugin.
+Also, it will be available in the app when your plugin is enabled.
+If your plugin does not need CSS, please delete this file.
+
+该文件包含了插件的 CSS 样式信息.
+它会在 Obsidian 加载插件的时候一并进行加载.
+但它并不是必需的, 如果您的插件不需要额外修改 CSS 样式, 可以删除该文件.
+
+*/

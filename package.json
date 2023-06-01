@@ -1,0 +1,23 @@
+{
+    "name": "obsidian-vue-sample-plugin",
+    "version": "1.0.0",
+    "description": "This is a Vue sample plugin for Obsidian.",
+    "keywords": ["obsidian plugin", "vue"],
+    "author": "Obsidian",
+    "license": "MIT",
+    "main": "main.js",
+    "scripts": {
+        "install": "npm install",
+        "update": "npm update",
+        "dev": "node esbuild.config.mjs",
+        "build": "tsc --noEmit --skipLibCheck && node esbuild.config.mjs production"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.4",
+        "esbuild": "^0.17.19",
+        "esbuild-plugin-vue3": "^0.3.2",
+        "builtin-modules": "^3.3.0",
+        "obsidian": "^1.2.8",
+        "vue": "^3.3.4"
+    }
+}
