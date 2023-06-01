@@ -7,8 +7,7 @@
     "license": "MIT",
     "main": "main.js",
     "scripts": {
-        "install": "npm install",
-        "update": "npm update",
+        "chore": "npm install",
         "dev": "node esbuild.config.mjs",
         "build": "tsc --noEmit --skipLibCheck && node esbuild.config.mjs production"
     },

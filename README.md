@@ -18,10 +18,9 @@ This project uses TypeScript to provide type checking and documentation, and dep
 - Check if [someone already developed a plugin for what you want]! There might be an existing plugin similar enough that you can partner up with.
 - Make a copy of this repo as a template with the "Use this template" button (login to GitHub if you don't see it).
 - Clone your repo to a local development folder. For convenience, you can place this folder in your `.obsidian/plugins/your-plugin-name` folder.
-- Install [Node.js], then run `npm run install` or `npm install` to install the package dependencies.
+- Install [Node.js], then run `npm run chore` or `npm install` to install the package dependencies.
 - Run `npm run dev` to compile your plugin to `main.js`. In this time, make changes to your TypeScript or Vue 3 code in `src` folder and they should be automatically compiled into `main.js`.
 - Reload Obsidian to load the new version of your plugin and enable plugin in Obsidian settings window.
-- Run `npm run update` or `npm update` to update your package dependencies and Obsidian Plugin API.
 - Run `npm run build` to compile your plugin to `main.js` in release.
 
 ## Learn More
@@ -53,10 +52,9 @@ This project uses TypeScript to provide type checking and documentation, and dep
 - 检查[是否有人已经为您想要的东西开发了插件]! 可能已经有了一个跟您预期足够相似的现有插件, 您可以和它的开发者进行合作.
 - 使用 "Use this template" 按钮将此仓库复制一份 (如果您没有看到这个按钮, 请先登录 GitHub).
 - 将您的仓库克隆到本地. 为了方便起见, 您可以将仓库放到 `.obsidian/plugins/your-plugin-name` 文件夹中.
-- 安装 [Node.js], 然后运行 `npm run install` 或 `npm install` 安装项目依赖.
+- 安装 [Node.js], 然后运行 `npm run chore` 或 `npm install` 安装项目依赖.
 - 运行 `npm run dev` 可以在开发模式下将插件编译为 `main.js`. 此时修改 `src` 文件夹中的 TypeScript 或 Vue 3 代码都可以自动热更新到 `main.js` 中.
 - 重新启动 Obsidian 以加载最新版本的插件, 并在 Obsidian 的设置窗口中启用插件.
-- 运行 `npm run update` 或 `npm update` 可以更新项目依赖和 Obsidian 插件 API.
 - 运行 `npm run build` 可以在发布模式下将插件编译为 `main.js`.
 
 ## 了解更多
