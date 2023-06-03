@@ -1,6 +1,30 @@
-# TypeScript + Vue 3 + ESbuild
+<br />
 
-📖 [简体中文](#typescript--vue-3--esbuild-1)
+<div align="center"><img src="./icon.svg" width="125" /></div>
+
+<h1 align="center">obsidian-vue-sample-plugin</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Obsidian-^1.2.8-6c31e3" />
+    <img src="https://img.shields.io/badge/TypeScript-^5.1.3-3178c6" />
+    <img src="https://img.shields.io/badge/Vue-^3.3.4-238636" />
+    <img src="https://img.shields.io/badge/ESbuild-^0.17.19-997c00" />
+    <img src="https://img.shields.io/badge/License-MIT-darkred" />
+</div>
+
+<br />
+
+<div align="center">
+    <span>🌏</span>
+    <a href="#introduction">English</a>
+    <span>•</span>
+    <a href="#简单介绍">简体中文</a>
+    <span>🕊️</span>
+</div>
+
+<br />
+
+## Introduction
 
 This is a Vue sample plugin for [Obsidian], and it should help get you started developing with TypeScript and Vue 3 in ESbuild.
 
@@ -32,9 +56,9 @@ This template depends on the latest Obsidian API (obsidian.d.ts).
 
 - MIT license.
 
-# TypeScript + Vue 3 + ESbuild
+<br />
 
-📖 [English](#typescript--vue-3--esbuild)
+## 简单介绍
 
 这是一个基于 Vue 的 [Obsidian] 插件开发模板, 它应该有助于您使用 TypeScript 和 Vue 3 同时搭配 ESbuild 进行开发.
 
