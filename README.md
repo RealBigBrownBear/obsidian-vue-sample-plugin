@@ -26,7 +26,7 @@
 
 ## Introduction
 
-This is a Vue sample plugin for [Obsidian], and it should help get you started developing with TypeScript and Vue 3 in ESbuild.
+This is a Vue sample plugin for [Obsidian], and it should help get you started developing with [TypeScript] and [Vue 3] in [ESbuild].
 
 This template depends on the latest Obsidian API (obsidian.d.ts).
 
@@ -54,13 +54,13 @@ This template depends on the latest Obsidian API (obsidian.d.ts).
 
 ## License
 
-- MIT license.
+MIT license.
 
 <br />
 
 ## 简单介绍
 
-这是一个基于 Vue 的 [Obsidian] 插件开发模板, 它应该有助于您使用 TypeScript 和 Vue 3 同时搭配 ESbuild 进行开发.
+这是一个基于 Vue 的 [Obsidian] 插件开发模板, 它应该有助于您使用 [TypeScript] 和 [Vue 3] 同时搭配 [ESbuild] 进行开发.
 
 此模板依赖于最新的 Obsidian API (obsidian.d.ts).
 
@@ -88,9 +88,12 @@ This template depends on the latest Obsidian API (obsidian.d.ts).
 
 ## 开源协议
 
-- MIT 协议.
+MIT 协议.
 
 [Obsidian]: https://obsidian.md
+[TypeScript]: https://www.typescriptlang.org
+[Vue 3]: https://vuejs.org
+[ESbuild]: https://esbuild.github.io
 [vscode]: https://code.visualstudio.com
 [Volar]: https://marketplace.visualstudio.com/items?itemName=Vue.volar
 [someone already developed a plugin for what you want]: https://obsidian.md/plugins
