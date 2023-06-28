@@ -1,4 +1,4 @@
-# Exclude the macOS Finder (System Explorer) view states.
+# Exclude the macOS Finder (System Explorer) view state files.
 # 排除 macOS Finder (系统资源管理器) 的视图状态文件.
 .DS_Store
 
