@@ -6,9 +6,9 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Obsidian-^1.2.8-6c31e3" />
-    <img src="https://img.shields.io/badge/TypeScript-^5.1.3-3178c6" />
+    <img src="https://img.shields.io/badge/TypeScript-^5.1.5-3178c6" />
     <img src="https://img.shields.io/badge/Vue-^3.3.4-238636" />
-    <img src="https://img.shields.io/badge/ESbuild-^0.18.0-997c00" />
+    <img src="https://img.shields.io/badge/ESbuild-^0.18.10-997c00" />
     <img src="https://img.shields.io/badge/License-MIT-darkred" />
 </div>
 
