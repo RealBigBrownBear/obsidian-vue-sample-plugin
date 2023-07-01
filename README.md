@@ -1,29 +1,11 @@
 <br />
 
-<div align="center"><img src="splash.png" /></div>
+![splash.png]
 
-<br />
+[![obsidian.shield]]() [![typescript.shield]]() [![vue.shield]]() [![esbuild.shield]]() <br />
+[![license.shield]]()
 
-<div>
-    <img src="https://img.shields.io/badge/Obsidian-^1.2.8-6c31e3" />
-    <img src="https://img.shields.io/badge/TypeScript-^5.1.6-3178c6" />
-    <img src="https://img.shields.io/badge/Vue-^3.3.4-238636" />
-    <img src="https://img.shields.io/badge/ESbuild-^0.18.10-997c00" />
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/License-MIT-darkred" />
-</div>
-
-<br />
-
-<div>
-    <span>🌏</span>
-    <a href="#introduction">English</a>
-    <span>•</span>
-    <a href="#简单介绍">简体中文</a>
-    <span>🕊️</span>
-</div>
+[English] • [简体中文] :rainbow:
 
 <br />
 
@@ -42,7 +24,7 @@ This template depends on the latest Obsidian API (obsidian.d.ts).
 
 ## Quick Starting Guide for Using This Repo
 
-- Check if [someone already developed a plugin for what you want]! There might be an existing plugin similar enough that you can partner up with.
+- Check [if someone already developed a plugin for what you want]! There might be an existing plugin similar enough that you can partner up with.
 - Make a copy of this repo as a template with the "Use this template" button (login to GitHub if you do not see it).
 - Clone your repo to a local development folder. For convenience, you can place this folder in your `.obsidian/plugins/your-plugin-name` folder.
 - Install [Node.js], then run `npm run chore` or `npm install` to install the package dependencies.
@@ -93,13 +75,22 @@ MIT license.
 
 MIT 协议.
 
+[splash.png]: splash.png
+[obsidian.shield]: https://img.shields.io/badge/Obsidian-^1.2.8-6C31E3?logo=obsidian&logoColor=white
+[typescript.shield]: https://img.shields.io/badge/TypeScript-^5.1.6-3178C6?logo=typescript&logoColor=white
+[vue.shield]: https://img.shields.io/badge/Vue-^3.3.4-238636?logo=vue.js&logoColor=white
+[esbuild.shield]: https://img.shields.io/badge/ESbuild-^0.18.11-997C00?logo=esbuild&logoColor=white
+[license.shield]: https://img.shields.io/badge/License-MIT-darkred
+[English]: #introduction
+[简体中文]: #简单介绍
+
 [Obsidian]: https://obsidian.md
 [TypeScript]: https://www.typescriptlang.org
 [Vue 3]: https://vuejs.org
 [ESbuild]: https://esbuild.github.io
 [vscode]: https://code.visualstudio.com
 [Volar]: https://marketplace.visualstudio.com/items?itemName=Vue.volar
-[someone already developed a plugin for what you want]: https://obsidian.md/plugins
+[if someone already developed a plugin for what you want]: https://obsidian.md/plugins
 [Node.js]: https://nodejs.org
 [Obsidian Plugin Developer Docs]: https://marcus.se.net/obsidian-plugin-docs
 [marcusolsson]: https://github.com/marcusolsson
