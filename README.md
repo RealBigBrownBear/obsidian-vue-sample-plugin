@@ -1,28 +1,28 @@
 <br />
 
-![splash.png]
+[![splash.png]][splash.png.github]
 
 [![obsidian.shield]]() [![typescript.shield]]() [![vue.shield]]() [![esbuild.shield]]() <br />
 [![license.shield]]()
 
-[English] • [简体中文] :rainbow:
+[English] • [简体中文] &#x1F54A;&#xFE0F;
 
 <br />
 
-## Introduction
+## Introduction &#x1F4DC;
 
 This is a Vue sample plugin for [Obsidian], and it should help get you started developing with [TypeScript] and [Vue 3] in [ESbuild].
 
-This template depends on the latest Obsidian API (obsidian.d.ts).
+This template depends on the latest Obsidian API: `obsidian.d.ts`.
 
 **Note:** The Obsidian API is still in early alpha and is subject to change at any time!
 
-## Recommended IDE Setup
+## Recommended IDE Setup &#x1F6E0;&#xFE0F;
 
 - [vscode] - IDE.
 - [Volar] - A vscode extension for Vue 3 language support.
 
-## Quick Starting Guide for Using This Repo
+## Quick Starting Guide for Using This Repo &#x1F9ED;
 
 - Check [if someone already developed a plugin for what you want]! There might be an existing plugin similar enough that you can partner up with.
 - Make a copy of this repo as a template with the "Use this template" button (login to GitHub if you do not see it).
@@ -32,31 +32,31 @@ This template depends on the latest Obsidian API (obsidian.d.ts).
 - Reload Obsidian to load the newest version of your plugin, then enable your plugin in the Obsidian settings window.
 - Run `npm run build` to compile your plugin to `main.js` in a release mode.
 
-## Learn More
+## Learn More &#x1F4D3;
 
 - [Obsidian Plugin Developer Docs] (author: [marcusolsson]).
 - [Obsidian Plugin 中文开发文档] (translator: [luhaifeng666]).
 
-## License
+## License &#x2696;&#xFE0F;
 
 MIT license.
 
 <br />
 
-## 简单介绍
+## 简单介绍 &#x1F4DC;
 
 这是一个基于 Vue 的 [Obsidian] 插件开发模板, 它应该有助于您使用 [TypeScript] 和 [Vue 3] 同时搭配 [ESbuild] 进行开发.
 
-此模板依赖于最新的 Obsidian API (obsidian.d.ts).
+此模板依赖于最新的 Obsidian API: `obsidian.d.ts`.
 
 **请注意:** Obsidian API 目前仍处于早期的 alpha 阶段, 因此随时都有可能发生变动!
 
-## 推荐的 IDE 配置
+## 推荐的 IDE 配置 &#x1F6E0;&#xFE0F;
 
 - [vscode] - IDE.
 - [Volar] - 可以提供 Vue 3 语法支持的 vscode 插件.
 
-## 使用此仓库的快速入门指南
+## 使用此仓库的快速入门指南 &#x1F9ED;
 
 - 检查[是否有人已经为您想要的东西开发了插件]! 可能已经有了一个跟您预期足够相似的现有插件, 您可以和它的开发者进行合作.
 - 使用 "Use this template" 按钮将此仓库复制一份 (如果您没有看到这个按钮, 请先登录 GitHub).
@@ -66,16 +66,17 @@ MIT license.
 - 重新启动 Obsidian 以加载最新版本的插件, 然后在 Obsidian 的设置窗口中启用插件.
 - 运行 `npm run build` 可以在发布模式下将插件编译为 `main.js`.
 
-## 了解更多
+## 了解更多 &#x1F4D3;
 
 - [Obsidian Plugin Developer Docs] (作者: [marcusolsson]).
 - [Obsidian Plugin 中文开发文档] (译者: [luhaifeng666]).
 
-## 开源协议
+## 开源协议 &#x2696;&#xFE0F;
 
 MIT 协议.
 
-[splash.png]: splash.png
+[splash.png]: https://github.com/RealBigBrownBear/obsidian-vue-sample-plugin/raw/main/splash.png
+[splash.png.github]: https://github.com/RealBigBrownBear/obsidian-vue-sample-plugin/blob/main/splash.png
 [obsidian.shield]: https://img.shields.io/badge/Obsidian-^1.2.8-6C31E3?logo=obsidian&logoColor=white
 [typescript.shield]: https://img.shields.io/badge/TypeScript-^5.1.6-3178C6?logo=typescript&logoColor=white
 [vue.shield]: https://img.shields.io/badge/Vue-^3.3.4-238636?logo=vue.js&logoColor=white
