@@ -75,8 +75,8 @@ MIT license.
 
 MIT 协议.
 
-[splash.png]: https://github.com/RealBigBrownBear/obsidian-vue-sample-plugin/raw/main/splash.png
-[splash.png.github]: https://github.com/RealBigBrownBear/obsidian-vue-sample-plugin/blob/main/splash.png
+[splash.png]: https://github.com/RealBigBrownBear/obsidian-vue-sample-plugin/raw/main/.github/splash.png
+[splash.png.github]: https://github.com/RealBigBrownBear/obsidian-vue-sample-plugin/blob/main/.github/splash.png
 [obsidian.shield]: https://img.shields.io/badge/Obsidian-^1.2.8-6C31E3?logo=obsidian&logoColor=white
 [typescript.shield]: https://img.shields.io/badge/TypeScript-^5.1.6-3178C6?logo=typescript&logoColor=white
 [vue.shield]: https://img.shields.io/badge/Vue-^3.3.4-238636?logo=vue.js&logoColor=white
