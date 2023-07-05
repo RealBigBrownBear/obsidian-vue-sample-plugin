@@ -3,7 +3,7 @@
 [![splash.png]][splash.png.github]
 
 [![obsidian.shield]]() [![typescript.shield]]() [![vue.shield]]() [![esbuild.shield]]() <br />
-[![license.shield]]()
+[![status.shield]]() [![license.shield]]()
 
 [English] • [简体中文] &#x1F54A;&#xFE0F;
 
@@ -81,6 +81,7 @@ MIT 协议.
 [typescript.shield]: https://img.shields.io/badge/TypeScript-^5.1.6-3178C6?logo=typescript&logoColor=white
 [vue.shield]: https://img.shields.io/badge/Vue-^3.3.4-238636?logo=vue.js&logoColor=white
 [esbuild.shield]: https://img.shields.io/badge/ESbuild-^0.18.11-997C00?logo=esbuild&logoColor=white
+[status.shield]: https://img.shields.io/badge/Status-Stable-238636
 [license.shield]: https://img.shields.io/badge/License-MIT-darkred
 [English]: #introduction
 [简体中文]: #简单介绍
